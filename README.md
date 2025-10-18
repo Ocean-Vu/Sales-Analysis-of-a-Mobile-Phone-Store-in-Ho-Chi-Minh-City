@@ -18,3 +18,12 @@ The analysis is structured to answer key business questions by exploring several
 **-Cross-Sell & Up-Sell Opportunities:** What is the potential for increasing the average order value? This is investigated by analyzing the accessory/insurance purchasing habits of key customer segments (e.g., the 26-30 age group and customers of specific brands).
 
 **-Payment Behavior Analysis:** How do customers prefer to pay? We explore the popularity of installment plans across different age groups and phone brands to inform financial partnerships and promotions.
+## Methodology
+**-Data Storage:** The raw data from the CSV files will be uploaded and stored in a relational database on Google BigQuery to facilitate querying.
+
+**-Data Analysis:** Structured Query Language (SQL) will be used to clean, transform, join, and analyze the data to address the defined business questions.
+
+**-Data Visualization:** The results from the SQL queries will be visualized using tools like Google Looker Studio, Tableau, or Power BI to create intuitive charts and dashboards for presenting the findings.
+
+## Insights & Recommendations
+This final section will summarize the key findings from the analysis and provide actionable business recommendations.
