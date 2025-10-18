@@ -27,24 +27,3 @@ The analysis is structured to answer key business questions by exploring several
 
 ## Insights & Recommendations
 This final section will summarize the key findings from the analysis and provide actionable business recommendations.
-## Repository Structure
-Organize your project files using a clean and intuitive directory structure like the one below:
-
-phone-sales-analysis/
-├── data/
-│   ├── Phone_Sales.csv
-│   └── Accessories_Sales.csv
-├── sql_queries/
-│   ├── 01_monthly_orders.sql
-│   ├── 02_monthly_customers.sql
-│   ├── 03_gender_brand_preference.sql
-│   ├── 04_age_group_performance.sql
-│   ├── 05_top_monthly_revenue_products.sql
-│   ├── 06_age_26_30_brand_preference.sql
-│   ├── 07_age_26_30_accessories_purchase.sql
-│   ├── 08_brand_accessories_purchase.sql
-│   ├── 09_age_installment_by_age.sql
-│   └── 10_brand_installment_by_brand.sql
-├── visualizations/
-│   └── (Screenshots of charts, dashboards, etc.)
-└── README.md
