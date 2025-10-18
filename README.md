@@ -3,13 +3,14 @@ This project analyzes the sales data from a mobile phone retail chain in Ho Chi 
 ## Dataset
 The analysis is based on two main datasets provided in .csv format:
 
--Phone_Sales.csv: Contains detailed transaction data for mobile phones, including customer demographics, product information, pricing, and payment methods.
+**-Phone_Sales.csv:** Contains detailed transaction data for mobile phones, including customer demographics, product information, pricing, and payment methods.
 
--Accessories_Sales.csv: Contains transaction data for accessories and insurance sold alongside the main products.
+**-Accessories_Sales.csv:** Contains transaction data for accessories and insurance sold alongside the main products.
 ## Business Questions & Analytical Strategy
 The analysis is structured to answer key business questions by exploring several strategic areas:
 
 **-Sales & Customer Trends:** How do order volumes and the unique customer count trend on a monthly basis? This helps gauge overall business health and growth.
+
 **-Customer Demographics and Preferences:** Who are our key customer segments? We analyze brand preferences by gender and identify the most valuable age groups by purchase volume and revenue.
 
 **-Product Performance:** Which products are our top performers? We identify the top 3 revenue-generating phones each month to understand what drives sales.
