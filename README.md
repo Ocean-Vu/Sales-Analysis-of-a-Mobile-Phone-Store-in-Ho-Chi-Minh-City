@@ -10,7 +10,6 @@ The analysis is based on two main datasets provided in .csv format:
 The analysis is structured to answer key business questions by exploring several strategic areas:
 
 **-Sales & Customer Trends:** How do order volumes and the unique customer count trend on a monthly basis? This helps gauge overall business health and growth.
-
 **-Customer Demographics and Preferences:** Who are our key customer segments? We analyze brand preferences by gender and identify the most valuable age groups by purchase volume and revenue.
 
 **-Product Performance:** Which products are our top performers? We identify the top 3 revenue-generating phones each month to understand what drives sales.
